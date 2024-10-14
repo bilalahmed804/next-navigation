@@ -1,5 +1,5 @@
 
-export default function Blog({blog}) {
+export default function Blog() {
 
   return (
     <div className="grid items-center justify-items-center my-32  font-[family-name:var(--font-geist-sans)]">

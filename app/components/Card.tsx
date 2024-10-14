@@ -1,7 +1,7 @@
 import React from 'react'
 interface MsgProps {
-    names: string;
-    num:Number;
+    names: string,
+    num:number,
   }
   
 const Card = ({names,num}:MsgProps) => {
